@@ -26,4 +26,4 @@
 ---
 
 ### 📊 LeetCode Profile
-🔗 https://leetcode.com/u/Sanjay_Solver/
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sanjay_Solver?theme=dark&font=baloo&ext=contest)
