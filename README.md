@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayramesh492@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayAI12)
 
-
+<div/>
 ---
 
 ## ◈ WHO AM I
