@@ -16,11 +16,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer+in+the+Making;Turning+Raw+Data+into+Real+Decisions;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SanjayAI12&style=for-the-badge&color=0D1117&labelColor=00D9FF&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/SanjayAI12?style=for-the-badge&color=0D1117&labelColor=00D9FF&label=FOLLOWERS)](https://github.com/SanjayAI12)
 
 </div>
 
@@ -45,42 +40,37 @@ class Sanjay:
 
 ## ◈ TECH ARSENAL
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-```
-Python     ████████████░░   Expert
-Java       █████████░░░░░   Proficient  
-SQL        ████████░░░░░░   Proficient
-HTML/CSS   ███████░░░░░░░   Comfortable
-```
-
-</td>
-<td valign="top" width="50%">
-
-**Tools & Platforms**
-```
-Git        ████████████░░   Daily Driver
-Linux      ████████░░░░░░   Proficient
-Excel      ███████░░░░░░░   Comfortable
-```
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00D9FF)
-![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00D9FF)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00D9FF)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00D9FF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00D9FF)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00D9FF)
-![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00D9FF)
+**Languages**
+
+![Python](https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+![Java](https://img.shields.io/badge/JAVA-0D1117?style=for-the-badge&logo=openjdk&logoColor=00D9FF)
+
+<br/>
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00D9FF)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+
+<br/>
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=00D9FF)
+![VS Code](https://img.shields.io/badge/VS%20CODE-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF)
+![Postman](https://img.shields.io/badge/POSTMAN-0D1117?style=for-the-badge&logo=postman&logoColor=00D9FF)
+![Linux](https://img.shields.io/badge/LINUX-0D1117?style=for-the-badge&logo=linux&logoColor=00D9FF)
+
+<br/>
+
+**Data Engineering Concepts**
+
+![ETL](https://img.shields.io/badge/ETL%20PIPELINES-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=00D9FF)
+![Data Warehousing](https://img.shields.io/badge/DATA%20WAREHOUSING-0D1117?style=for-the-badge&logo=snowflake&logoColor=00D9FF)
+![Data Modeling](https://img.shields.io/badge/DATA%20MODELING-0D1117?style=for-the-badge&logo=databricks&logoColor=00D9FF)
 
 </div>
 
