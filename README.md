@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A0DAD,100:0D1117&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Sanjay%20R&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Data%20Engineer%20%7C%20AI%20%26%20DS%20Student%20%7C%20Problem%20Solver&descAlignY=62&descSize=18&descColor=C77DFF" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Engineer+in+the+Making;Turning+Raw+Data+into+Real+Decisions;Code.+Learn.+Build.+Repeat.;%F0%9F%8F%86+Department+Rank+Holder" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A0DAD,100:0D1117&height=240&section=header&text=SANJAY%20R&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Code%20•%20Build%20•%20Innovate&descAlignY=65&descSize=24&descColor=C77DFF" width="100%"/>
 
 <br/>
 
@@ -11,15 +9,17 @@
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayramesh492@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayAI12)
 
-<div/>
+</div>
+
 ---
+
 
 ## ◈ WHO AM I
 
 ```python
 class Sanjay:
     name        = "Sanjay R"
-    role        = "AI & Data Science Undergraduate"
+    role        = "AI & Data Science Undergrad"
     year        = "Pre-Final Year"
     rank        = "🏆 Department Rank Holder"
     focus       = ["Data Engineering", "Machine Learning", "Problem Solving"]
@@ -33,48 +33,23 @@ class Sanjay:
 
 ## 🛠️ Languages & Tools
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql,git,linux,vscode,postman,html,css&theme=dark&perline=10" />
+<p align="left">
 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,python,java,mysql,postgresql,mongodb,git,github,linux,vscode,eclipse&theme=dark" />
 
----
-
-## ◈ WHAT I'M BUILDING TOWARD
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🤖  AI & Machine Learning  →  Building smart systems  │
-│   📊  Data Engineering       →  Pipelines & analytics   │
-│   🧠  DSA                    →  Cracking it daily        │
-│   🌐  Real-World Projects    →  Impact over theory       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+</p>
 
 ---
+
 
 ## ◈ GITHUB METRICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjayAI12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayAI12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=FFFFFF" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SanjayAI12&theme=transparent&hide_border=true&background=0D1117&ring=6A0DAD&fire=C77DFF&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=FFFFFF&stroke=6A0DAD" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayAI12&bg_color=0D1117&color=C77DFF&line=6A0DAD&point=FFFFFF&hide_border=true&area=true" />
+<img src="https://streak-stats.demolab.com?user=SanjayAI12&theme=tokyonight&hide_border=true&background=0D1117&ring=C77DFF&fire=C77DFF&currStreakLabel=C77DFF" />
 
 </div>
-
----
 
 ## ⚡ LeetCode
 
@@ -86,6 +61,10 @@ class Sanjay:
 
 ---
 
+<div align="center">
 
+### ✨ Building the Future with AI & Data ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A0DAD,100:0D1117&height=120&section=footer" width="100%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A0DAD,100:0D1117&height=140&section=footer&text=Keep%20Coding%20%F0%9F%92%BB&fontSize=26&fontColor=FFFFFF&animation=twinkling&fontAlignY=70" width="100%"/>
