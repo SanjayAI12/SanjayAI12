@@ -19,7 +19,7 @@
 ```python
 class Sanjay:
     name        = "Sanjay R"
-    role        = "AI & Data Science Undergrad"
+    role        = "AI & Data Science Undergraduate"
     year        = "Pre-Final Year"
     rank        = "🏆 Department Rank Holder"
     focus       = ["Data Engineering", "Machine Learning", "Problem Solving"]
